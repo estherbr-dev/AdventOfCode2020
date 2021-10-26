@@ -1,0 +1,16 @@
+C:\AdventOfCode\Day4\bin\Debug\net5.0\Day4.exe
+C:\AdventOfCode\Day4\bin\Debug\net5.0\Day4.deps.json
+C:\AdventOfCode\Day4\bin\Debug\net5.0\Day4.runtimeconfig.json
+C:\AdventOfCode\Day4\bin\Debug\net5.0\Day4.runtimeconfig.dev.json
+C:\AdventOfCode\Day4\bin\Debug\net5.0\Day4.dll
+C:\AdventOfCode\Day4\bin\Debug\net5.0\ref\Day4.dll
+C:\AdventOfCode\Day4\bin\Debug\net5.0\Day4.pdb
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.csproj.AssemblyReference.cache
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.AssemblyInfoInputs.cache
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.AssemblyInfo.cs
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.csproj.CoreCompileInputs.cache
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.dll
+C:\AdventOfCode\Day4\obj\Debug\net5.0\ref\Day4.dll
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.pdb
+C:\AdventOfCode\Day4\obj\Debug\net5.0\Day4.genruntimeconfig.cache
